@@ -1,0 +1,12 @@
+{
+    "name": "Factoio-Mod-Template",
+    "version": "0.1.0",
+    "factorio_version": "1.1",
+    "title": "Factoio-Mod-Template",
+    "author": "Johnson1893",
+    "homepage": "https://github.com/Relvl/Factoio-Mod-Template",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "Mod Template includes all possible files"
+}
